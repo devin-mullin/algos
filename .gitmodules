@@ -1,0 +1,3 @@
+[submodule "postwork-data-structures-and-algorithms"]
+	path = postwork-data-structures-and-algorithms
+	url = git@github.com:devin-mullin/postwork-data-structures-and-algorithms.git
